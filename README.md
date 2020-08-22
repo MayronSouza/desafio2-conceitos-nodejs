@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/images/desafio_nodejs.png" height="150" width="175" alt="Desafio NodeJS GoStack13" />
+  <img src="./src/assets/images/desafio_nodejs.png" height="250" width="275" alt="Desafio NodeJS GoStack13" />
 </p>
 
 <h1 align="center">Desafio NodeJS - GoStack 13 da Rocketseat</h1>
