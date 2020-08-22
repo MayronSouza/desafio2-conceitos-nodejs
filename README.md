@@ -6,7 +6,7 @@
 
 <p align="center">Esse projeto ao Desafio 2 que se refere à introdução sobre Node.js do Bootcamp GoStack 13, da Rocketseat</p>
 
-<h1 align="center>
+<h1 align="center">
   <a href="https://nodejs.org/en/">🚀 NodeJS - Rocketseat</a>
 </h1>
 
