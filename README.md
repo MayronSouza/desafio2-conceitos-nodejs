@@ -32,9 +32,14 @@
 - [x] Inserir e Customizar README.md
 - [ ] Utilizar TypeScript
 
-## Tecnologias
-- NodeJS
-- ExpressJS
-- Nodemon
-- Cors
-- uuidv4
+<h3 id="techs">
+  <ul>
+    <li>NodeJS</li>
+    <li>ExpressJS</li>
+    <li>Nodemon</li>
+    <li>Cors</li>
+    <li>uuidv4</li>
+  </ul>
+<h3>
+
+<p id="author">Autor: Mayron Souza</p>
