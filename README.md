@@ -11,6 +11,10 @@
 </h1>
 
 <p align="center">
-  <a href="#techs">Tecnologias</>
+  <a href="#techs">Tecnologias</> ◼ 
   <a href="#author">Autor</>
 </p>
+
+<h4 align="center">
+  ⛏ NodeJS 🚀 Em construção 🚧 👷
+</h4>
