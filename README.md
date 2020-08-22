@@ -9,3 +9,8 @@
 <h1 align="center>
   <a href="https://nodejs.org/en/">🚀 NodeJS - Rocketseat</a>
 </h1>
+
+<p align="center">
+  <a href="#techs">Tecnologias</>
+  <a href="#author">Autor</>
+</p>
