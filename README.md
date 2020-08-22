@@ -32,14 +32,15 @@
 - [x] Inserir e Customizar README.md
 - [ ] Utilizar TypeScript
 
-<h3 id="techs">
+<div id="techs">
+  <h3>Tecnologias<h3>
   <ul>
-    <li>NodeJS</li>
-    <li>ExpressJS</li>
-    <li>Nodemon</li>
-    <li>Cors</li>
-    <li>uuidv4</li>
-  </ul>
-<h3>
+      <li>NodeJS</li>
+      <li>ExpressJS</li>
+      <li>Nodemon</li>
+      <li>Cors</li>
+      <li>uuidv4</li>
+    </ul>
+</div>
 
-<p id="author">Autor: Mayron Souza</p>
+Autor: Mayron Souza
