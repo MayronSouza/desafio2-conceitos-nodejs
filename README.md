@@ -4,7 +4,7 @@
 
 <h1 align="center">Desafio NodeJS - GoStack 13 da Rocketseat</h1>
 
-<p align="center">Esse projeto ao Desafio 2 que se refere à introdução sobre Node.js do Bootcamp GoStack 13, da Rocketseat</p>
+<p align="center">Desafio 2 que se refere à introdução sobre Node.js do Bootcamp GoStack 13, da Rocketseat</p>
 
 <h1 align="center">
   <a href="https://nodejs.org/en/">🚀 NodeJS - Rocketseat</a>
@@ -18,3 +18,16 @@
 <h4 align="center">
   ⛏ NodeJS 🚀 Em construção 🚧 👷
 </h4>
+
+### Features
+- [x] Cadastrar Repositório
+- [x] Listar Repositórios
+- [x] Atualizar Repositório
+- [x] Remover Repositório
+
+### Services
+-[x] Validar ID do repositório
+
+### Project Updates
+- [x] Inserir e Customizar README.md
+- [ ] Utilizar TypeScript
