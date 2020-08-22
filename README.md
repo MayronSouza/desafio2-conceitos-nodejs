@@ -26,8 +26,15 @@
 - [x] Remover Repositório
 
 ### Services
--[x] Validar ID do repositório
+- [x] Validar ID do repositório
 
 ### Project Updates
 - [x] Inserir e Customizar README.md
 - [ ] Utilizar TypeScript
+
+## Tecnologias
+- NodeJS
+- ExpressJS
+- Nodemon
+- Cors
+- uuidv4
